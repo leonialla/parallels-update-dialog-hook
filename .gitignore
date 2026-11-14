@@ -1,0 +1,21 @@
+# Backups contain personal preferences and may contain license data.
+backups/
+
+# Large local installer images and generated binaries.
+original/
+dist/
+prebuilt/
+.DS_Store
+*.dmg
+*.pkg
+*.iso
+*.dylib
+*.app/
+*.hdd/
+*.pvm/
+*.plist
+*.pvi
+*.pvs
+*.dat
+*.tnvs
+__pycache__/
